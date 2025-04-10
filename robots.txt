@@ -1,0 +1,6 @@
+Sitemap: https://jagaraga.site/sitemap.xml
+
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
